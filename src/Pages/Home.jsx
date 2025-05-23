@@ -3,7 +3,7 @@ import { Link } from "react-router";
 
 const Home = () => {
   return (
-    <div className="bg-[#F7F8F9] w-[375px] h-[730px] border border-gray-200 flex flex-col justify-end">
+    <div className="bg-[#F7F8F9] w-[375px] m-auto mt-5 h-[660px] border border-gray-200 flex flex-col justify-end">
       <div className="p-5">
         <h1 className="text-[28px] font-medium  text-[#1D2226] leading-[17px]">
           Welcome to PopX

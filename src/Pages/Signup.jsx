@@ -73,7 +73,7 @@ const Signup = () => {
   };
 
   return (
-    <div className="bg-[#F7F8F9] w-[375px] h-[730px] border border-gray-200 px-5 pt-10 pb-7">
+    <div className="bg-[#F7F8F9] w-[375px] m-auto mt-5 h-[660px] border border-gray-200 px-5 pt-10 pb-7">
       <h1 className="text-[28px] font-medium text-[#1D2226] leading-9">
         Create your <br /> PopX account
       </h1>
@@ -152,7 +152,7 @@ const Signup = () => {
         {/* Submit */}
         <button
           type="submit"
-          className="bg-[#6C25FF] rounded-md text-white text-base leading-[17px] font-medium w-full h-[46px] cursor-pointer transition-all duration-300 ease-in-out hover:bg-[#5A1EDB] mt-[88px]"
+          className="bg-[#6C25FF] rounded-md text-white text-base leading-[17px] font-medium w-full h-[46px] cursor-pointer transition-all duration-300 ease-in-out hover:bg-[#5A1EDB] mt-[58px]"
         >
           Create Account
         </button>

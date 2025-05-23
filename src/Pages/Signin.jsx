@@ -33,7 +33,6 @@ const Input = ({
   </div>
 );
 
-
 const Signin = () => {
   const navigate = useNavigate();
 
@@ -61,7 +60,7 @@ const Signin = () => {
   };
 
   return (
-    <div className="bg-[#F7F8F9] w-[375px] h-[730px] border border-gray-200 px-5 pt-10">
+    <div className="bg-[#F7F8F9] w-[375px] m-auto mt-5 h-[660px] border border-gray-200 px-5 pt-10">
       <h1 className="text-[28px] font-medium text-[#1D2226] leading-9">
         Signin to your <br />
         PopX account
